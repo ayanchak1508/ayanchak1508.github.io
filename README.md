@@ -1,38 +1,19 @@
-## Welcome to GitHub Pages
+## Overview
 
-You can use the [editor on GitHub](https://github.com/ayanchak1508/ayanchak1508.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-For Testing purposes
+Hi! I am a pre-final year B.Tech Student in the Department of Electronics and Electrical Communications Engineering, IIT Kharagpur, India.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am particularly interested in the fields of VLSI, Computer Architecture and Embedded Systems. I am currently looking for Internship or Undergraduate Research Positions in these fields. [**My CV**](https://drive.google.com/file/d/1jv3YDeDuXC56qTdNpejb1gPLlvNcVWbJ/view?usp=sharing)
 
-### Markdown
+### My Experiences
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- In Summer(2020), I interned at IOT-UnifyAI Tech and worked on the development of a UV-C Disinfection Robot. I Developed  a User Interface using Web Server on ESP-32 FreeRTOS for remote control of UV-C Disinfection Robot. Implemented various features such as Bootstrap Wifi with Multiple Network Credentials Storage for connecting to different Networks. Also implemented Memorization and Storage of Multiple Paths travelled by the robot and re-traversal of the recorded paths. I also Developed and Simulated Low Complexity Path Following with Obstacle Avoidance Algorithms based on Ultrasonic Sensor Feedback on Custom Bot Model in the CoppeliaSim Environment
 
-```markdown
-Syntax highlighted code block
+- I am a Electronics and Embedded Systems Team Member at Kharagpur Robosoccer Students Group. I have worked on designing on custom Motor Driver Boards for BLDC motors on our robots. I have also worked on a large variety of Micro controllers such as Arduino and STM32F4 for testing and Debugging Purposes. I have also worked on FPGA's for BLDC motor control and Speed Sening using Hall Sensor Feedback.
 
-# Header 1
-## Header 2
-### Header 3
+- I participated in a short VLSI Summer School (2020) organized by my Institute and I was very interested and so, I am currently taking online courses on Digital Design and Computer Architecture to further increase my knowledge in these fields.
 
-- Bulleted
-- List
+### Contact and LinkedIn Profile
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ayanchak1508/ayanchak1508.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Gmail : ayan.ch1508@gmail.com
+- Institute Mail ID : ayanchak@iitkgp.ac.in
+- LinkedIN : https://www.linkedin.com/in/ayanchak/
