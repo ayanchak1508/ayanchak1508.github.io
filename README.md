@@ -12,6 +12,8 @@ I am particularly interested in the fields of VLSI, Computer Architecture and Em
 
 - I participated in a short VLSI Summer School (2020) organized by my Institute and I was very interested and so, I am currently taking online courses on Digital Design and Computer Architecture to further increase my knowledge in these fields.
 
+- I have participated in Various Robotic Competitions on a variety of Problem Statements
+
 ### Contact and LinkedIn Profile
 
 - Gmail : ayan.ch1508@gmail.com
