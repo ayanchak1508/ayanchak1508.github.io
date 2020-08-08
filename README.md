@@ -2,7 +2,7 @@
 
 Hi! I am a pre-final year B.Tech Student in the Department of Electronics and Electrical Communications Engineering, IIT Kharagpur, India.
 
-I am particularly interested in the fields of VLSI, Computer Architecture and Embedded Systems. I am currently looking for Internship or Undergraduate Research Positions in these fields. [**My CV**](https://drive.google.com/file/d/1jv3YDeDuXC56qTdNpejb1gPLlvNcVWbJ/view?usp=sharing)
+I am particularly interested in the fields of VLSI, Computer Architecture and Embedded Systems. I am currently looking for Internship or Undergraduate Research Positions in these fields.
 
 ### My Experiences
 
