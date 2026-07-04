@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">QFlex ARM simulation thumbnail</title>
+  <desc id="desc">ARM simulation pipeline with fast and accurate paths.</desc>
+  <rect width="640" height="360" rx="28" fill="#111827"/>
+  <g transform="translate(76 96)" fill="none" stroke="#93c5fd" stroke-width="5" stroke-linejoin="round">
+    <rect x="0" y="0" width="112" height="92" rx="14"/>
+    <rect x="188" y="0" width="112" height="92" rx="14"/>
+    <rect x="376" y="0" width="112" height="92" rx="14"/>
+    <path d="M112 46h76M300 46h76"/>
+    <path d="M170 30l20 16-20 16M358 30l20 16-20 16"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">
+    <text x="132" y="148" font-size="28" fill="#e0f2fe">ARM</text>
+    <text x="320" y="148" font-size="28" fill="#e0f2fe">QFlex</text>
+    <text x="508" y="148" font-size="28" fill="#e0f2fe">Trace</text>
+    <text x="320" y="258" font-size="56" fill="#ffffff">QFlex 3.0</text>
+    <text x="320" y="300" font-size="26" fill="#bfdbfe">Fast and Accurate Simulation</text>
+  </g>
+</svg>

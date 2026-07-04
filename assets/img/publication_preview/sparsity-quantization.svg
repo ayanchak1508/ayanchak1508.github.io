@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Sparsity and quantization thumbnail</title>
+  <desc id="desc">Sparse neural network blocks and quantized bit levels converging into an efficient model.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#172033"/>
+      <stop offset="1" stop-color="#243b55"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" rx="28" fill="url(#bg)"/>
+  <g fill="none" stroke="#9dd6ff" stroke-width="4" opacity=".75">
+    <path d="M112 94h116v116H112z"/>
+    <path d="M284 94h116v116H284z"/>
+    <path d="M456 94h72v116h-72z"/>
+  </g>
+  <g fill="#e9f4ff">
+    <circle cx="134" cy="116" r="10"/>
+    <circle cx="206" cy="116" r="10"/>
+    <circle cx="170" cy="152" r="10"/>
+    <circle cx="134" cy="188" r="10"/>
+    <circle cx="350" cy="116" r="10"/>
+    <circle cx="314" cy="152" r="10"/>
+    <circle cx="386" cy="188" r="10"/>
+  </g>
+  <g stroke="#9dd6ff" stroke-width="3" opacity=".6">
+    <path d="M134 116l36 36 36-36M170 152l-36 36M314 152l36-36 36 72"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">
+    <text x="492" y="137" font-size="28" fill="#fff">4b</text>
+    <text x="492" y="178" font-size="28" fill="#fff">8b</text>
+    <text x="320" y="282" font-size="30" fill="#ffffff">Sparsity x Quantization</text>
+  </g>
+</svg>
