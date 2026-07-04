@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Accuracy booster thumbnail</title>
+  <desc id="desc">Four-bit arithmetic levels lifting training accuracy.</desc>
+  <rect width="640" height="360" rx="28" fill="#10231f"/>
+  <g transform="translate(92 78)">
+    <rect x="0" y="134" width="72" height="86" rx="10" fill="#4dd4ac"/>
+    <rect x="102" y="102" width="72" height="118" rx="10" fill="#63c7ff"/>
+    <rect x="204" y="62" width="72" height="158" rx="10" fill="#ffd166"/>
+    <rect x="306" y="22" width="72" height="198" rx="10" fill="#f78c6b"/>
+    <path d="M24 108c86 26 168 8 310-80" fill="none" stroke="#eafbf6" stroke-width="8" stroke-linecap="round"/>
+    <path d="M320 28l28-10-8 30" fill="none" stroke="#eafbf6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#f4fffb">
+    <text x="470" y="130" font-size="58">4-bit</text>
+    <text x="470" y="190" font-size="28">fixed-point</text>
+    <text x="470" y="228" font-size="28">training</text>
+  </g>
+</svg>

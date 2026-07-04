@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Random simulation biasing thumbnail</title>
+  <desc id="desc">Biased simulation samples moving toward rare corner cases.</desc>
+  <rect width="640" height="360" rx="28" fill="#211a1d"/>
+  <g fill="#fb7185" opacity=".95">
+    <circle cx="124" cy="106" r="14"/>
+    <circle cx="184" cy="210" r="10"/>
+    <circle cx="236" cy="142" r="12"/>
+    <circle cx="314" cy="234" r="9"/>
+    <circle cx="398" cy="118" r="11"/>
+    <circle cx="466" cy="202" r="13"/>
+  </g>
+  <g fill="none" stroke="#fef3c7" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M118 104c112 34 190 18 338 96"/>
+    <path d="M434 168l38 42-56 8"/>
+  </g>
+  <g transform="translate(468 74)">
+    <rect width="96" height="96" rx="18" fill="#f59e0b"/>
+    <circle cx="28" cy="30" r="7" fill="#211a1d"/>
+    <circle cx="68" cy="30" r="7" fill="#211a1d"/>
+    <circle cx="48" cy="48" r="7" fill="#211a1d"/>
+    <circle cx="28" cy="68" r="7" fill="#211a1d"/>
+    <circle cx="68" cy="68" r="7" fill="#211a1d"/>
+  </g>
+  <text x="320" y="314" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="28" fill="#fff7ed" text-anchor="middle">Biased Random Simulation</text>
+</svg>

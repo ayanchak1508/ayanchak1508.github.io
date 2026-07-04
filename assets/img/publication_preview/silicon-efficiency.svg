@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Silicon efficiency thumbnail</title>
+  <desc id="desc">Server racks connected to a silicon efficiency gauge.</desc>
+  <rect width="640" height="360" rx="28" fill="#151923"/>
+  <g fill="#263447" stroke="#7dd3fc" stroke-width="3">
+    <rect x="94" y="78" width="92" height="204" rx="10"/>
+    <rect x="214" y="78" width="92" height="204" rx="10"/>
+    <rect x="334" y="78" width="92" height="204" rx="10"/>
+  </g>
+  <g fill="#7dd3fc">
+    <rect x="116" y="112" width="48" height="10" rx="5"/>
+    <rect x="116" y="150" width="48" height="10" rx="5"/>
+    <rect x="116" y="188" width="48" height="10" rx="5"/>
+    <rect x="236" y="112" width="48" height="10" rx="5"/>
+    <rect x="236" y="150" width="48" height="10" rx="5"/>
+    <rect x="236" y="188" width="48" height="10" rx="5"/>
+    <rect x="356" y="112" width="48" height="10" rx="5"/>
+    <rect x="356" y="150" width="48" height="10" rx="5"/>
+    <rect x="356" y="188" width="48" height="10" rx="5"/>
+  </g>
+  <g transform="translate(470 108)" fill="none" stroke="#facc15" stroke-width="10" stroke-linecap="round">
+    <path d="M0 92a92 92 0 0 1 184 0"/>
+    <path d="M92 92L142 38"/>
+  </g>
+  <text x="320" y="318" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="28" fill="#f8fafc" text-anchor="middle">Post-Moore Server Efficiency</text>
+</svg>
